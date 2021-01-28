@@ -1,0 +1,6 @@
+image: gitpod/workspace-full-vnc
+
+tasks:
+  - command: sudo docker-up
+    name: Docker daemon
+  - command: docker
