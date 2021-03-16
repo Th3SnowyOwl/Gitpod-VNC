@@ -3,9 +3,9 @@
 # Gitpod-VNC  
 This is a repository for running "novnc" inside of gitpod, just use the prefix on this repository, or just click this link   
 # Creating Accounts  
-First, make sure you have a [github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) account for syncing with gitpod. 
+First, make sure you have a [github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) account for syncing with gitpod.  
 Then, Create a [Gitpod.io](https://gitpod.io/login/) account to set up your workspace.  
-# Feature Preview
+# Feature Preview  
 Once logged in, navagate to [Gitpod account settings](https://gitpod.io/settings/), and enable feature preview. Which enables sudo in gitpod, which is essential for installing our packages and updating our workspace.  
 ![You need internet clown](https://raw.githubusercontent.com/Th3SnowyOwl/Gitpod-VNC/master/image.png)  
 # Final Command & Disclaimers
