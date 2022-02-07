@@ -19,5 +19,4 @@ sudo apt update && sudo apt upgrade -y && sudo apt install firefox -y && firefox
 Please keep in mind gitpod.io's rules, I am not responsible for you crashing thier servers.  
 These vnc's have no gpu, so any gui's will be slow to load, don't try playing youtube videos, they suck because the cpu has to render everything pixel by pixel. 
 
-
 Script forked from [AnonymousHacker1279](https://github.com/AnonymousHacker1279)
